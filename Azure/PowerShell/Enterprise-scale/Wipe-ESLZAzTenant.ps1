@@ -27,6 +27,8 @@ https://aka.ms/es/guides
 
 # Required PowerShell Modules:
 - https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-6.4.0
+-Install-Module -Name Az.Resources
+-Install-Module -Name Az.ResourceGraph
 
 # Release notes 14/09/2021: 
 - Initial release.
